@@ -1,0 +1,6 @@
+{
+  "name": "Mesa de Luz - HQ Seinen",
+  "description": "Motor de Linha do Tempo: Conectado ao Firebase e Gemini AI para roteirização de HQ Seinen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
